@@ -1,0 +1,60 @@
+body {
+    background-color: #ffffff;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+}
+
+.header {
+  background-color: #C5EFF7;
+  width: 100%;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 90px;
+  font-weight: 300;
+  color: #34495E;
+}
+
+.week-bar {
+  background-color: #34495E;
+  color: #FFFFFF;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.icon-bar {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 20px;
+  font-size: 40px;
+}
+
+.day-breakdown {
+  text-align: center;
+  vertical-align: middle;
+  margin-top: 10px;
+}
+
+.tooltip-inner {
+    white-space:pre-wrap;
+}
+
+.header-sub-text {
+  font-size: 16px;
+  margin-top: -15px;
+}
+
+a {
+  color: #34495E;
+}
+
+.days-text {
+  font-size: 16px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+
+.rain-text {
+  margin-top: -30px;
+}
